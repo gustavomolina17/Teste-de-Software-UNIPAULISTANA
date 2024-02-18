@@ -22,3 +22,6 @@
     - Kanban
     - XP
     - Scrum
+- [x]  Aula 05 - Metodologias de Teste: Tradicional X Ágil (26/02/2024)
+    - Diferenças entre Testes Tradicionais e Testes Ágeis
+  
