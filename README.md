@@ -24,4 +24,7 @@
     - Scrum
 - [x]  Aula 05 - Metodologias de Teste: Tradicional X Ágil (26/02/2024)
     - Diferenças entre Testes Tradicionais e Testes Ágeis
+- [x]  Aula 06 - Operadores Lógicos em Java(04/03/2024)
+    - Operadores Lógicos em Java
+    - Exercícios de Fixação
   
