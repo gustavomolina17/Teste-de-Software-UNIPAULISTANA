@@ -1,3 +1,7 @@
+<h1 align="center">
+    Exercícios
+</h1>
+
 Exercício 1: Operadores Aritméticos
 Escreva um programa que solicite ao usuário a base e a altura de um retângulo e calcule e exiba a sua área.
 
