@@ -1,30 +1,9 @@
-<h1 align="center">
-    Teste de Software UNIPAULISTANA - 1º Semestre de 2024
-</h1>
+## @BeforeEach
+Usamos a anotação @BeforeEach para criar uma instância da classe Calculadora antes de cada teste. Isso garante que cada teste seja executado em um ambiente limpo e independente.
 
-## Curso
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (2º Semestre)
+## @Test
+Cada método de teste é anotado com @Test e contém asserções usando o método assertEquals da classe Assertions para verificar se os resultados retornados pelos métodos da Calculadora são os esperados.
 
-## Carga horária
-- 68 horas
-
-## Cronograma 
-
-- [x]  Aula 01 - Apresentação da Disciplina (05/02/2024)
-    - Apresentação do Professor e da Disciplina
-    - 7 principios do teste de software
-- [x]  Aula 02 - Carnaval (12/02/2024)
-    - Não Houve Aula
-- [x]  Aula 03 - Trabalhos Práticos (17/02/2024)
-    - Atividades avaliativas enviadas via Teams (valendo nota)
-- [x]  Aula 04 - Metodologias Ágeis (19/02/2024)
-    - Lean
-    - Kanban
-    - XP
-    - Scrum
-- [x]  Aula 05 - Metodologias de Teste: Tradicional X Ágil (26/02/2024)
-    - Diferenças entre Testes Tradicionais e Testes Ágeis
-- [x]  Aula 06 - Operadores Lógicos em Java(04/03/2024)
-    - Operadores Lógicos em Java
-    - Exercícios de Fixação
-  
+## assertThrows
+No testDividirPorZero, usamos o método assertThrows da classe Assertions para verificar se uma exceção ArithmeticException é lançada quando ocorre uma divisão por zero.
+    
