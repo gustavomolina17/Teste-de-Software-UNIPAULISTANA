@@ -53,6 +53,18 @@
 - [x]  Aula 15 - Prova Específica
 - [x]  Aula 16 - Prova Sub   
 
-## Atividades 
+## Atividade 1 
 
-- [x]  Atividade 1 - Assistir ao vídeo: https://www.youtube.com/watch?v=O7rB5XoakEc&classId=4c0ace3d-06fe-4268-aa52-5f43e5bc400b&assignmentId=6f68c582-64d0-4c43-b4f3-e8e5f692f98e e escrever um resumo, com suas próprias (no máximo 2 páginas), destacando os pontos principais abordados no vídeo.
+- [x]  Assistir ao vídeo: https://www.youtube.com/watch?v=O7rB5XoakEc&classId=4c0ace3d-06fe-4268-aa52-5f43e5bc400b&assignmentId=6f68c582-64d0-4c43-b4f3-e8e5f692f98e e escrever um resumo, com suas próprias (no máximo 2 páginas), destacando os pontos principais abordados no vídeo.
+
+## Atividade 2
+
+- [x] Cite quais são as vantagens e desvantagens do Modelo Waterfall (Cascata)
+- [x] Explique as 4 fases do modelo espiral:
+    - Definição do Objetivo
+    - Avaliação e Redução de Riscos
+    - Implementação e Validação
+    - Planejamento e Especificação
+- [x] Quais devem ser as características de um testador ágil?
+ 
+
